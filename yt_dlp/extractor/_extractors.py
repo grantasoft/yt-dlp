@@ -1736,6 +1736,7 @@ from .rtnews import (
     RuptlyIE,
 )
 from .rtp import RTPIE
+from .rtpa import RTPAIE
 from .rtrfm import RTRFMIE
 from .rts import RTSIE
 from .rtvcplay import (
